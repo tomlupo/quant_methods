@@ -1,0 +1,8 @@
+# Ignore data folder
+data/
+# Ignore all pickle files
+*.pkl
+# Ignore folders starting with __ or .
+__*/
+.*/
+*.bz2
